@@ -1,3 +1,5 @@
+![](./banner.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently studying at Concordia University - Montreal
