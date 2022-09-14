@@ -1,4 +1,4 @@
-![](./banner.png)
+![](./gittt.png)
 
 ### Hi there 👋
 
