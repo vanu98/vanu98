@@ -1,4 +1,4 @@
-![](./abc.png)
+![](./pixels-neon.gif)
 
 ### Hi there 👋
 
